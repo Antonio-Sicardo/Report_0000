@@ -10,4 +10,7 @@ STAR WARS EP III
 ROGUE ONE
 The Mandalorian 
 Tales of the empire
+---- 17:09 hrs - 22/04/2026 ---- git(web)
+Tales of the Jedi
+The book of Boba Fett
 
